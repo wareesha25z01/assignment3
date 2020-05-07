@@ -1,0 +1,84 @@
+.top{
+    background-color: blue;
+    color: white;
+    padding: 20px;
+}
+.wae{
+    text-align: center;
+    display: inline-block;
+    margin-top: -20px;
+}
+.img{
+    display: inline;
+
+
+}
+
+ .navbar{
+     display: inline;
+     padding: 30px;
+    
+ }
+ .nav{
+      margin-top: -40px;
+      
+ }
+ .nav:hover a {
+     background-color: royalblue;
+     color: seashell;
+     border-radius: 60px;
+     font-weight: 100px;
+ }
+ 
+ .carousel slide{
+     padding: 20px;
+ }
+ 
+ .mar{
+     background-color: steelblue;
+     padding: 2px;
+     text-align: center;
+     height: 40px;
+ }
+ h2.main-title{
+     text-align: center;
+     color: steelblue;
+     margin: 20px 10px;
+ }
+ .second{
+     color:greenyellow;
+ }
+.text{
+    margin-left: 80px;
+    margin-right: 80px;
+}
+.boxed{
+    box-shadow: 10px 10px 5px lightgray;
+}
+.separator{
+    width: 70px;
+    height: 3px;
+    background-color: green;
+    display: block;
+}
+.text-center{
+    color: steelblue;
+}
+.fish{
+    color: yellowgreen;
+}
+.t{
+    background-color: black;
+    padding: 20px;
+    color: white;
+}
+.iconsa,li{
+    display: inline-block;
+    border-radius: 30px;
+}
+.waq{
+    color: white;
+}
+.oo{
+    margin-left: 800px;
+}
